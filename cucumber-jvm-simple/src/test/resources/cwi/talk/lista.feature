@@ -18,3 +18,5 @@ Funcionalidade: Testes com ListaSteps
       | James Bondinho |    42 | M    |
       | Caribea        |    28 | F    |
       | Herculóide     |    34 | M    |
+    #      | Com erro       | ABC   | F    |
+    Então listo as pessoas
