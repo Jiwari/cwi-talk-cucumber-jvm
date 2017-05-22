@@ -16,5 +16,8 @@ hs_err_pid*
 #Eclipse
 *.classpath
 *.project
-*/.settings
+*.settings/
 
+#IntelliJ
+*.iml
+.idea/
